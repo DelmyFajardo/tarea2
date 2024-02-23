@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\programacion\c#\LeerTeclado\bin\Debug\LeerTeclado.exe.config
+C:\Users\delmy\Desktop\programacion\c#\LeerTeclado\bin\Debug\LeerTeclado.exe
+C:\Users\delmy\Desktop\programacion\c#\LeerTeclado\bin\Debug\LeerTeclado.pdb
+C:\Users\delmy\Desktop\programacion\c#\LeerTeclado\obj\Debug\LeerTeclado.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\programacion\c#\LeerTeclado\obj\Debug\LeerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\programacion\c#\LeerTeclado\obj\Debug\LeerTeclado.exe
+C:\Users\delmy\Desktop\programacion\c#\LeerTeclado\obj\Debug\LeerTeclado.pdb

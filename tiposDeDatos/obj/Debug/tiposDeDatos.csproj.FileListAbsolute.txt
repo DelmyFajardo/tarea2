@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\programacion\c#\tiposDeDatos\bin\Debug\tiposDeDatos.exe.config
+C:\Users\delmy\Desktop\programacion\c#\tiposDeDatos\bin\Debug\tiposDeDatos.exe
+C:\Users\delmy\Desktop\programacion\c#\tiposDeDatos\bin\Debug\tiposDeDatos.pdb
+C:\Users\delmy\Desktop\programacion\c#\tiposDeDatos\obj\Debug\tiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\programacion\c#\tiposDeDatos\obj\Debug\tiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\programacion\c#\tiposDeDatos\obj\Debug\tiposDeDatos.exe
+C:\Users\delmy\Desktop\programacion\c#\tiposDeDatos\obj\Debug\tiposDeDatos.pdb

@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\programacion\c#\using\obj\Debug\using.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\programacion\c#\using\obj\Debug\using.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\programacion\c#\using\bin\Debug\@using.exe.config
+C:\Users\delmy\Desktop\programacion\c#\using\bin\Debug\@using.exe
+C:\Users\delmy\Desktop\programacion\c#\using\bin\Debug\@using.pdb
+C:\Users\delmy\Desktop\programacion\c#\using\obj\Debug\@using.exe
+C:\Users\delmy\Desktop\programacion\c#\using\obj\Debug\@using.pdb

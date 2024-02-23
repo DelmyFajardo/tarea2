@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\programacion\c#\Condiciones\bin\Debug\Condiciones.exe.config
+C:\Users\delmy\Desktop\programacion\c#\Condiciones\bin\Debug\Condiciones.exe
+C:\Users\delmy\Desktop\programacion\c#\Condiciones\bin\Debug\Condiciones.pdb
+C:\Users\delmy\Desktop\programacion\c#\Condiciones\obj\Debug\Condiciones.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\programacion\c#\Condiciones\obj\Debug\Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\programacion\c#\Condiciones\obj\Debug\Condiciones.exe
+C:\Users\delmy\Desktop\programacion\c#\Condiciones\obj\Debug\Condiciones.pdb

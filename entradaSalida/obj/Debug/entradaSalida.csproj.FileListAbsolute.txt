@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\programacion\c#\entradaSalida\bin\Debug\entradaSalida.exe.config
+C:\Users\delmy\Desktop\programacion\c#\entradaSalida\bin\Debug\entradaSalida.exe
+C:\Users\delmy\Desktop\programacion\c#\entradaSalida\bin\Debug\entradaSalida.pdb
+C:\Users\delmy\Desktop\programacion\c#\entradaSalida\obj\Debug\entradaSalida.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\programacion\c#\entradaSalida\obj\Debug\entradaSalida.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\programacion\c#\entradaSalida\obj\Debug\entradaSalida.exe
+C:\Users\delmy\Desktop\programacion\c#\entradaSalida\obj\Debug\entradaSalida.pdb
